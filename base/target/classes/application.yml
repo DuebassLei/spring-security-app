@@ -1,0 +1,8 @@
+# 端口
+server:
+  port: 30010
+
+spring:
+  # thymeleaf 设置
+  thymeleaf:
+    cache: false # 关闭缓存
