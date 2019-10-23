@@ -11,6 +11,7 @@
     <modules>
         <module>base</module>
         <module>basedb</module>
+        <module>base-custom</module>
     </modules>
 
     <parent>
