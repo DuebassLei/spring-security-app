@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="base" />
         <module name="base-custom" />
+        <module name="base-json" />
         <module name="basedb" />
       </profile>
     </annotationProcessing>
